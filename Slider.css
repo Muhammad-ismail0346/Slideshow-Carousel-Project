@@ -1,0 +1,15 @@
+.carousel-inner{
+    height: 10%;
+}
+.carousel-item{
+    height: 10%;
+}
+button{
+    outline:none;
+    border:none;
+    height:50px;
+    width:200px;
+    background: #ff00ff;
+    color:white;
+    border-radius:200px;
+}
